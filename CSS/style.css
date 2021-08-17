@@ -27,3 +27,16 @@ footer {
     background-color: #373738;
     padding: 1%;
 }
+.flexContainer {
+    display: flex;
+    flex-direction: row;
+}
+.section.div { 
+    width: 33%;
+    padding: 1%;
+}
+.workGrid {
+    display: grid;
+    grid-template-rows: 500px 500px;
+    margin: 0px 5%
+}
